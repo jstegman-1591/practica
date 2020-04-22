@@ -1,0 +1,55 @@
+GIT INIT 
+inicializa git en el repo donde este parado
+
+git status
+te muestra los archivos que estan en el repo, rojo si no estan agregados a la staging area, verde si si
+
+git config
+configura atributos del usuario
+
+git add
+pasar desde el area de working a staging area
+
+git commit
+pasa del staging al repositorio(primera foto)
+
+git push
+subir a repo remoto/servidor
+
+git pull
+trae cambios
+
+git log
+muestra las versiones
+
+git clone
+trea una version a tu repositorio
+
+git diff diferencia entre la version de stagin y la working
+
+:wq despues de commit
+
+para ignorar carpetas y archivos crear archivo .gitignore y poner ahi poner nombres de carpeta que queres ignorar
+
+git commit -m "xxxxxxxxxxxxxxx"
+
+git branch xxxxxxx--- crea una rama con un nombre
+
+git checkout xxxxx -- cambias de nombre de versionado
+
+git add . -- agrega todo lo que esta en working
+
+github es para subir a la nube el proyecto
+
+git remote add origin http.....
+git push -u origin master
+con esto subimos al guthub nuestro proyecto
+
+git clone http...
+nos trae el proyecto donde estemos parado
+
+
+
+
+
+
